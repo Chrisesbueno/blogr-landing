@@ -41,7 +41,7 @@ body {
 }
 .up {
     height: 75vh;
-    background: var(--light-red) url('../assets/images/bg-pattern-intro-mobile.svg') no-repeat;
+    background: var(--light-red) url('https://raw.githubusercontent.com/Chrisesbueno/blogr-landing/ec86ee36cf610c7cdfc3fef1b11565af26e5e0f6/assets/images/bg-pattern-intro-mobile.svg') no-repeat;
     background-position: bottom 60% left 35%;
     background-size: 1200px;
     border-bottom-left-radius: 75px;
@@ -134,7 +134,7 @@ body {
 /* MEDIUM PART */
 .medium-part {
     margin-top: 55%;
-    background: var(--very-dark-gray-blue) url('../assets/images/bg-pattern-circles.svg') no-repeat;
+    background: var(--very-dark-gray-blue) url('https://raw.githubusercontent.com/Chrisesbueno/blogr-landing/ec86ee36cf610c7cdfc3fef1b11565af26e5e0f6/assets/images/bg-pattern-circles.svg') no-repeat;
     background-position: top -35vh left 50%;
     background-size: 600px;
     border-bottom-left-radius: 75px;
@@ -281,7 +281,7 @@ footer {
     }
     .up {
         height: 100%;
-        background: var(--light-red) url('../assets/images/bg-pattern-intro-mobile.svg') no-repeat;
+        background: var(--light-red) url('https://raw.githubusercontent.com/Chrisesbueno/blogr-landing/ec86ee36cf610c7cdfc3fef1b11565af26e5e0f6/assets/images/bg-pattern-intro-mobile.svg') no-repeat;
         background-position: bottom 60% left 0%;
         background-size: 100vw;
         padding: 2rem 10% 7%; 
