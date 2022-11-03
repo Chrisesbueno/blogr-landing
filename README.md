@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/blogr-landing-page-hnHHfg4Wbq)
+- Live Site URL: [Add live site URL here](https://chrisesbueno.github.io/blogr-landing/)
 
 ## My process
 
